@@ -1,0 +1,11 @@
+{
+    "full_name": "Your full name",
+    "email": "youremailaddress@yourdomain.com",
+    "github_username": "yourgithubusername",
+    "project_name": "Your project's name",
+    "app_name": "jirafs-plugin_name",
+    "repo_name": "jirafs-plugin_name",
+    "plugin_name": "plugin_name",
+    "year": "2015",
+    "project_short_description": "A cookiecutter template for easily making jirafs plugins and macros."
+}
