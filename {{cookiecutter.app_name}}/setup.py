@@ -43,7 +43,7 @@ setup(
     include_package_data=True,
     packages=find_packages(),
     entry_points={
-        '{{cookiecutter.app_name}}': [
+        'jirafs_plugins': [
             '{{cookiecutter.plugin_name}} = {{cookiecutter.app_name}}.plugin:Plugin',
         ]
     },
