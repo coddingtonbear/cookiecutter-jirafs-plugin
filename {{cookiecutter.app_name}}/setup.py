@@ -31,7 +31,7 @@ setup(
     name='{{cookiecutter.app_name}}',
     version=version_string,
     url='https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.repo_name}}',
-    description="{{cookiecutter.project_short_description}}"
+    description="{{cookiecutter.project_short_description}}",
     author='{{cookiecutter.full_name}}',
     author_email='{{cookiecutter.email}}',
     classifiers=[
